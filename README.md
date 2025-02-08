@@ -1,2 +1,2 @@
 # Circle-Clock
-Clock
+Circular-Clock
